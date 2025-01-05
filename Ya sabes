@@ -1,3 +1,4 @@
 DEBUG=electron-windows-installer:main node tasks/electron-winstaller.js
 
+{origiin} 
 ACTIONS_RUNNER_DEBUG
